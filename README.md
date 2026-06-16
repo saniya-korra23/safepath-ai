@@ -1,3 +1,40 @@
+Hi 👋, I'm Korra Saniya
+
+Software Engineering Student | Flutter Developer
+
+🚀 Passionate about Mobile App Development and AI-powered solutions.
+
+About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Flutter Developer
+- 🌱 Learning Advanced Flutter & AI Integration
+- 🗺️ Interested in Geolocation and Navigation Applications
+- 📚 Continuously improving my software development skills
+
+Skills
+
+Programming Languages
+
+- Dart
+- Java
+- Python
+
+Mobile Development
+
+- Flutter
+- Android Development
+
+Tools & Technologies
+
+- Git
+- GitHub
+- OpenStreetMap
+- Photon API
+- REST APIs
+
+Featured Project
+
 SafePath AI 🛡️
 
 AI-powered women safety navigation application built using Flutter.
@@ -8,19 +45,19 @@ Features
 - Emergency SOS support
 - Live location tracking
 - OpenStreetMap integration
-- Place search using Photon API
+- Place search functionality
 
-Technologies Used
+Current Focus
 
-- Flutter
-- Dart
-- OpenStreetMap
-- Photon API
-- Geolocator
-- Flutter Map
-- HTTP Package
+- Flutter Development
+- Mobile Application Design
+- AI-based Applications
+- Open Source Contributions
 
-Author
+Connect With Me
 
-Korra Saniya
-Software Engineering Student
+- GitHub: https://github.com/saniya-korra23
+
+---
+
+⭐ Always learning, building, and improving.
